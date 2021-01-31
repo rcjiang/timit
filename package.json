@@ -16,7 +16,7 @@
     "intervals"
   ],
   "author": "rciang",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/rcjiang/timit.git"
