@@ -8,7 +8,7 @@ npm install 'timit'
 
 ## example
 ```js
-import timit from '.src/timit'
+import timit from 'timit'
 
 //timti(fn1[, fn2, ..., fnN][, argsList][, repeat][, numbers])
 
